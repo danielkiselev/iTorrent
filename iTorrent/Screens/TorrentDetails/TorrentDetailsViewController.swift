@@ -44,13 +44,13 @@ class TorrentDetailsViewController<VM: TorrentDetailsViewModel>: BaseViewControl
             }
 
             viewModel.$canResume.sink { [unowned self] canResume in
-                if #unavailable(iOS 26) {
+                if #unavailable(iOS 18) {
                     playButton.isEnabled = canResume
                 }
             }
 
             viewModel.$canPause.sink { [unowned self] canPause in
-                if #unavailable(iOS 26) {
+                if #unavailable(iOS 18) {
                     pauseButton.isEnabled = canPause
                 }
             }
@@ -133,7 +133,7 @@ private extension TorrentDetailsViewController {
     }
 
     func reloadToolbar() {
-        if #available(iOS 26, visionOS 99999, *) {
+        if #available(iOS 18, visionOS 2, *) {
             toolbarItems = [
                 viewModel.canResume ? playButton : nil,
                 viewModel.canPause ? pauseButton : nil,

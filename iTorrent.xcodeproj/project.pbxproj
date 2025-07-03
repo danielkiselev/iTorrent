@@ -10,25 +10,16 @@
 		7C013DE32C28AA3C0026A11B /* sound.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 7C013DE22C28A97F0026A11B /* sound.m4a */; };
 		7C013DE42C2F38AA0026A11B /* LocalizationAttribute.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1352D1D2BBC2F7F00104E7B /* LocalizationAttribute.swift */; };
 		7C013DE52C2F41760026A11B /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = D1AA00CF2AFAC7D200B74629 /* Localizable.xcstrings */; };
-		7C04A6092C446B4D00FBC649 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C04A6082C446B4D00FBC649 /* GoogleService-Info.plist */; };
 		7C1C08AA2C31F2F800569B45 /* PauseTorrentIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C1C08A92C31F2F000569B45 /* PauseTorrentIntent.swift */; };
 		7C1C08AB2C31F31900569B45 /* PauseTorrentIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C1C08A92C31F2F000569B45 /* PauseTorrentIntent.swift */; };
 		7C1C08AD2C31FEA400569B45 /* IntentsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C1C08AC2C31FEA000569B45 /* IntentsService.swift */; };
 		7C3142D02C317E6400397E82 /* MarqueeText in Frameworks */ = {isa = PBXBuildFile; productRef = 7C3142CF2C317E6400397E82 /* MarqueeText */; };
 		7C32535C2D19402F0069D640 /* CellularToggleSetupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C32535B2D19402F0069D640 /* CellularToggleSetupViewController.swift */; };
 		7C32535E2D1940440069D640 /* CellularToggleSetupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C32535D2D1940440069D640 /* CellularToggleSetupViewController.xib */; };
-		7C4CF2FA2BDE712D0078FEA1 /* UnityAdsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4CF2F92BDE712D0078FEA1 /* UnityAdsManager.swift */; };
-		7C4CF2FC2BDE78F50078FEA1 /* AdView+Unity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4CF2FB2BDE78F50078FEA1 /* AdView+Unity.swift */; };
 		7C4CF2FE2BDE7DE50078FEA1 /* BaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4CF2FD2BDE7DE50078FEA1 /* BaseView.swift */; };
-		7C4ED0852BE6413D0034B62C /* AdsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4ED0842BE6413D0034B62C /* AdsManager.swift */; };
-		7C4ED0872BE641B30034B62C /* GoogleAdsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4ED0862BE641B30034B62C /* GoogleAdsManager.swift */; };
-		7C4ED0892BE6423D0034B62C /* MetaAdsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4ED0882BE6423D0034B62C /* MetaAdsManager.swift */; };
-		7C4ED08B2BE642A50034B62C /* AppTrackingTransparency.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C4ED08A2BE642A50034B62C /* AppTrackingTransparency.framework */; };
-		7C4ED08D2BE646E40034B62C /* AdView+Meta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4ED08C2BE646E40034B62C /* AdView+Meta.swift */; };
 		7C4ED0942BE961A20034B62C /* UIModernBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4ED0932BE961A20034B62C /* UIModernBarButtonItem.swift */; };
 		7C4ED0962BE961DF0034B62C /* BaseControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4ED0952BE961DF0034B62C /* BaseControl.swift */; };
 		7C4ED0982BEF8B8E0034B62C /* PatreonCredentials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4ED0972BEF8B8E0034B62C /* PatreonCredentials.swift */; };
-		7C519C882C427E9A00E353A9 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 7C519C872C427E9A00E353A9 /* FirebaseAnalytics */; };
 		7C519C8C2C427F4C00E353A9 /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 7C519C8B2C427F4C00E353A9 /* FirebaseRemoteConfigSwift */; };
 		7C5FBE0F2BBB227D0069E5A0 /* UISegmentedProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5FBE0E2BBB227D0069E5A0 /* UISegmentedProgressView.swift */; };
 		7C5FBE192BBC91E70069E5A0 /* NetworkMonitoringService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5FBE182BBC91E70069E5A0 /* NetworkMonitoringService.swift */; };
@@ -79,7 +70,6 @@
 		7CC411622BD319AE00CA8B13 /* AppDelegate+RemoteConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC411612BD319AE00CA8B13 /* AppDelegate+RemoteConfig.swift */; };
 		7CC411642BD326C300CA8B13 /* AppDelegate+Firebase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC411632BD326C300CA8B13 /* AppDelegate+Firebase.swift */; };
 		7CC634772E09ED88007E3EED /* UILabel+Marquee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC634762E09ED83007E3EED /* UILabel+Marquee.swift */; };
-		7CDC7BBE2C516ADD00B51EFB /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 7CDC7BBD2C516ADD00B51EFB /* FirebaseCrashlytics */; };
 		7CE25BA72C24A848007B2FD7 /* CircularAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE25BA62C24A848007B2FD7 /* CircularAnimation.swift */; };
 		7CF6DA332C0F112B0033D03F /* OpenSSL in Frameworks */ = {isa = PBXBuildFile; productRef = 7CF6DA322C0F112B0033D03F /* OpenSSL */; };
 		7CF6DA352C0F3DB90033D03F /* BCHostingConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF6DA342C0F3DB90033D03F /* BCHostingConfiguration.swift */; };
@@ -173,8 +163,6 @@
 		D1A227012AEF05A600669D6D /* TorrentListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A227002AEF05A600669D6D /* TorrentListViewModel.swift */; };
 		D1A227072AEF0B2C00669D6D /* TorrentListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A227062AEF0B2C00669D6D /* TorrentListItem.swift */; };
 		D1A227092AEF0B6A00669D6D /* TorrentListItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A227082AEF0B6A00669D6D /* TorrentListItemViewModel.swift */; };
-		D1A5D0CC2BE5269E003E05D5 /* AdView+Blank.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A5D0CB2BE5269E003E05D5 /* AdView+Blank.swift */; };
-		D1A5D0CE2BE52728003E05D5 /* AdView+Google.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A5D0CD2BE52728003E05D5 /* AdView+Google.swift */; };
 		D1AA00CB2AFA8A9200B74629 /* UserDefaultItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1AA00CA2AFA8A9200B74629 /* UserDefaultItem.swift */; };
 		D1AA00CE2AFA8B1000B74629 /* PreferencesStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1AA00CD2AFA8B1000B74629 /* PreferencesStorage.swift */; };
 		D1AA00D02AFAC7D200B74629 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = D1AA00CF2AFAC7D200B74629 /* Localizable.xcstrings */; };
@@ -263,19 +251,11 @@
 
 /* Begin PBXFileReference section */
 		7C013DE22C28A97F0026A11B /* sound.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound.m4a; sourceTree = "<group>"; };
-		7C04A6082C446B4D00FBC649 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7C1C08A92C31F2F000569B45 /* PauseTorrentIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PauseTorrentIntent.swift; sourceTree = "<group>"; };
 		7C1C08AC2C31FEA000569B45 /* IntentsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntentsService.swift; sourceTree = "<group>"; };
 		7C32535B2D19402F0069D640 /* CellularToggleSetupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellularToggleSetupViewController.swift; sourceTree = "<group>"; };
 		7C32535D2D1940440069D640 /* CellularToggleSetupViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellularToggleSetupViewController.xib; sourceTree = "<group>"; };
-		7C4CF2F92BDE712D0078FEA1 /* UnityAdsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnityAdsManager.swift; sourceTree = "<group>"; };
-		7C4CF2FB2BDE78F50078FEA1 /* AdView+Unity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AdView+Unity.swift"; sourceTree = "<group>"; };
 		7C4CF2FD2BDE7DE50078FEA1 /* BaseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseView.swift; sourceTree = "<group>"; };
-		7C4ED0842BE6413D0034B62C /* AdsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsManager.swift; sourceTree = "<group>"; };
-		7C4ED0862BE641B30034B62C /* GoogleAdsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleAdsManager.swift; sourceTree = "<group>"; };
-		7C4ED0882BE6423D0034B62C /* MetaAdsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetaAdsManager.swift; sourceTree = "<group>"; };
-		7C4ED08A2BE642A50034B62C /* AppTrackingTransparency.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppTrackingTransparency.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/System/Library/Frameworks/AppTrackingTransparency.framework; sourceTree = DEVELOPER_DIR; };
-		7C4ED08C2BE646E40034B62C /* AdView+Meta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AdView+Meta.swift"; sourceTree = "<group>"; };
 		7C4ED0932BE961A20034B62C /* UIModernBarButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIModernBarButtonItem.swift; sourceTree = "<group>"; };
 		7C4ED0952BE961DF0034B62C /* BaseControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseControl.swift; sourceTree = "<group>"; };
 		7C4ED0972BEF8B8E0034B62C /* PatreonCredentials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatreonCredentials.swift; sourceTree = "<group>"; };
@@ -421,8 +401,6 @@
 		D1A227002AEF05A600669D6D /* TorrentListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TorrentListViewModel.swift; sourceTree = "<group>"; };
 		D1A227062AEF0B2C00669D6D /* TorrentListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TorrentListItem.swift; sourceTree = "<group>"; };
 		D1A227082AEF0B6A00669D6D /* TorrentListItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TorrentListItemViewModel.swift; sourceTree = "<group>"; };
-		D1A5D0CB2BE5269E003E05D5 /* AdView+Blank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AdView+Blank.swift"; sourceTree = "<group>"; };
-		D1A5D0CD2BE52728003E05D5 /* AdView+Google.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AdView+Google.swift"; sourceTree = "<group>"; };
 		D1AA00CA2AFA8A9200B74629 /* UserDefaultItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultItem.swift; sourceTree = "<group>"; };
 		D1AA00CD2AFA8B1000B74629 /* PreferencesStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferencesStorage.swift; sourceTree = "<group>"; };
 		D1AA00CF2AFAC7D200B74629 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
@@ -492,11 +470,8 @@
 				D1A226B82AEEF05400669D6D /* OpenSSL in Frameworks */,
 				D1A226F42AEF01B700669D6D /* LibTorrent.framework in Frameworks */,
 				7CF6DA332C0F112B0033D03F /* OpenSSL in Frameworks */,
-				7C4ED08B2BE642A50034B62C /* AppTrackingTransparency.framework in Frameworks */,
-				7C519C882C427E9A00E353A9 /* FirebaseAnalytics in Frameworks */,
 				7CF9C2C72AF7F235009BBFA0 /* MvvmFoundation in Frameworks */,
 				D1DB71832BD80318007F9267 /* GCDWebServers in Frameworks */,
-				7CDC7BBE2C516ADD00B51EFB /* FirebaseCrashlytics in Frameworks */,
 				7C519C8C2C427F4C00E353A9 /* FirebaseRemoteConfigSwift in Frameworks */,
 				D135C58C2AEF158000440680 /* CombineCocoa in Frameworks */,
 				D1ACFDDA2AF7D55F0098FF56 /* MvvmFoundation in Frameworks */,
@@ -551,28 +526,6 @@
 			path = CellularToggle;
 			sourceTree = "<group>";
 		};
-		7C4CF2F82BDE711A0078FEA1 /* Ads */ = {
-			isa = PBXGroup;
-			children = (
-				7C4ED0842BE6413D0034B62C /* AdsManager.swift */,
-				7C4CF2F92BDE712D0078FEA1 /* UnityAdsManager.swift */,
-				7C4ED0862BE641B30034B62C /* GoogleAdsManager.swift */,
-				7C4ED0882BE6423D0034B62C /* MetaAdsManager.swift */,
-			);
-			path = Ads;
-			sourceTree = "<group>";
-		};
-		7C4CF2FF2BDE7DF60078FEA1 /* AdView */ = {
-			isa = PBXGroup;
-			children = (
-				7C4CF2FB2BDE78F50078FEA1 /* AdView+Unity.swift */,
-				D1A5D0CD2BE52728003E05D5 /* AdView+Google.swift */,
-				7C4ED08C2BE646E40034B62C /* AdView+Meta.swift */,
-				D1A5D0CB2BE5269E003E05D5 /* AdView+Blank.swift */,
-			);
-			path = AdView;
-			sourceTree = "<group>";
-		};
 		7C519C8D2C4282F000E353A9 /* Foundation */ = {
 			isa = PBXGroup;
 			children = (
@@ -583,7 +536,6 @@
 		7C5FBE0D2BBB206B0069E5A0 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				7C4CF2FF2BDE7DF60078FEA1 /* AdView */,
 				7C5FBE6E2BC2EF8B0069E5A0 /* EditTextView */,
 				D173D9DD2BC024DD00E4F9EB /* UISwitchWithMenu.swift */,
 				7CB58D832CE662BB00929205 /* TagsView.swift */,
@@ -729,7 +681,6 @@
 			isa = PBXGroup;
 			children = (
 				7C609A572C1F1D6400586635 /* Info.plist */,
-				7C04A6082C446B4D00FBC649 /* GoogleService-Info.plist */,
 				7C609A592C1F2A2700586635 /* iTorrent.xcconfig */,
 				D1AA00CF2AFAC7D200B74629 /* Localizable.xcstrings */,
 				7CF6DA362C0F6D150033D03F /* InfoPlist.xcstrings */,
@@ -1166,7 +1117,6 @@
 		D1A226D32AEEF73600669D6D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				7C4ED08A2BE642A50034B62C /* AppTrackingTransparency.framework */,
 				D1A226F32AEF01B700669D6D /* LibTorrent.framework */,
 				D1A226D42AEEF73600669D6D /* MvvmFoundation.framework */,
 				7C5FBE3C2BC0ADC90069E5A0 /* WidgetKit.framework */,
@@ -1206,7 +1156,6 @@
 				7C1C08AE2C31FEF700569B45 /* IntentsService */,
 				7C3142D42C31ED4600397E82 /* LiveActivityService */,
 				D1B99D842BEE5E4100F51514 /* Patreon */,
-				7C4CF2F82BDE711A0078FEA1 /* Ads */,
 				D1DB71892BD915F4007F9267 /* ImageCache */,
 				D1DB71842BD80435007F9267 /* WebServer */,
 				7CAD301A2BC3456700592990 /* RssFeed */,
@@ -1489,9 +1438,7 @@
 				7CAD30182BC3455800592990 /* SWXMLHash */,
 				D1DB71822BD80318007F9267 /* GCDWebServers */,
 				7CF6DA322C0F112B0033D03F /* OpenSSL */,
-				7C519C872C427E9A00E353A9 /* FirebaseAnalytics */,
 				7C519C8B2C427F4C00E353A9 /* FirebaseRemoteConfigSwift */,
-				7CDC7BBD2C516ADD00B51EFB /* FirebaseCrashlytics */,
 			);
 			productName = iTorrent;
 			productReference = D1A2269A2AEEEFCC00669D6D /* iTorrent.app */;
@@ -1576,7 +1523,6 @@
 				7C5FBE2E2BBF3FF80069E5A0 /* PRSwitchView.xib in Resources */,
 				D1AA00D02AFAC7D200B74629 /* Localizable.xcstrings in Resources */,
 				D1ACFDC72AF6DB9F0098FF56 /* TorrentFilesFileListCell.xib in Resources */,
-				7C04A6092C446B4D00FBC649 /* GoogleService-Info.plist in Resources */,
 				D1B1BECA2AFE25AE0030C2A4 /* TorrentTrackersViewController.xib in Resources */,
 				7CF6DA372C0F6D150033D03F /* InfoPlist.xcstrings in Resources */,
 				D1DB71922BD92238007F9267 /* PatreonPreferencesViewController.xib in Resources */,
@@ -1591,29 +1537,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		7CC4115E2BD2E1D000CA8B13 /* Firebase upload dSYMs */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}",
-				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Resources/DWARF/${PRODUCT_NAME}",
-				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Info.plist",
-				"$(TARGET_BUILD_DIR)/$(UNLOCALIZED_RESOURCES_FOLDER_PATH)/GoogleService-Info.plist",
-				"$(TARGET_BUILD_DIR)/$(EXECUTABLE_PATH)",
-			);
-			name = "Firebase upload dSYMs";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n\"${BUILD_DIR%/Build/*}/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/run\"\n";
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -1668,7 +1591,6 @@
 				7C609A5B2C1F5D9E00586635 /* SceneDelegate+AVPlayer.swift in Sources */,
 				D1D1279B2BC7CA7600C04533 /* SwiftUILayoutGuides.swift in Sources */,
 				D1352D1E2BBC2F7F00104E7B /* LocalizationAttribute.swift in Sources */,
-				D1A5D0CC2BE5269E003E05D5 /* AdView+Blank.swift in Sources */,
 				7C5FBE642BC158BC0069E5A0 /* SceneDelegate+URLProcessing.swift in Sources */,
 				D1A2269E2AEEEFCC00669D6D /* AppDelegate.swift in Sources */,
 				7C5FBE702BC2EF8B0069E5A0 /* EditTextViewController.swift in Sources */,
@@ -1679,11 +1601,8 @@
 				D1B1BEC92AFE25AE0030C2A4 /* TorrentTrackersViewController.swift in Sources */,
 				D1DB718D2BD9165C007F9267 /* ImageLoader.swift in Sources */,
 				7C5FBE292BBDD4030069E5A0 /* PRColorPickerViewModel.swift in Sources */,
-				7C4CF2FA2BDE712D0078FEA1 /* UnityAdsManager.swift in Sources */,
 				7CFEBE6C2BC3E0F40013233F /* RssListViewController.swift in Sources */,
-				7C4ED0872BE641B30034B62C /* GoogleAdsManager.swift in Sources */,
 				D19E00262AF045F9000A17A2 /* SpeedFormat.swift in Sources */,
-				7C4ED0852BE6413D0034B62C /* AdsManager.swift in Sources */,
 				D1352D2A2BBD419D00104E7B /* UIViewController+TopPresented.swift in Sources */,
 				7C5FBE362BC0A24A0069E5A0 /* SceneDelegate+BackgroundDownload.swift in Sources */,
 				D1DB71882BD8FF60007F9267 /* Scheduler+Main.swift in Sources */,
@@ -1711,7 +1630,6 @@
 				7CFEBE7C2BC4318E0013233F /* RssChannelViewController.swift in Sources */,
 				7C5FBE2C2BBDD6B40069E5A0 /* UIView+LayerColors.swift in Sources */,
 				7CB8311D2D1962A0005F3F42 /* InitialSetupFlowProtocol.swift in Sources */,
-				7C4ED08D2BE646E40034B62C /* AdView+Meta.swift in Sources */,
 				D1BB07432C985EB800981D5F /* TrackersListPreferencesView.swift in Sources */,
 				D1B538572AF1171900694AFD /* TorrentDetailProgressCellView.swift in Sources */,
 				7C5FBE742BC2F0A30069E5A0 /* MvvmViewModelProtocol+Alert.swift in Sources */,
@@ -1728,7 +1646,6 @@
 				D1B99D962BEE657F00F51514 /* API.swift in Sources */,
 				D1352D3C2BBD7F8800104E7B /* TorrentMonitoringService.swift in Sources */,
 				D1B538592AF1172000694AFD /* TorrentDetailProgressCellViewModel.swift in Sources */,
-				7C4ED0892BE6423D0034B62C /* MetaAdsManager.swift in Sources */,
 				7CC634772E09ED88007E3EED /* UILabel+Marquee.swift in Sources */,
 				7CFEBEAD2BC88F4C0013233F /* AppDelegate+BackgroundRefresh.swift in Sources */,
 				D1DB71912BD92238007F9267 /* PatreonPreferencesViewController.swift in Sources */,
@@ -1748,10 +1665,8 @@
 				D1EFCD092AF56A4C00D33A7A /* TorrentFilesViewController.swift in Sources */,
 				7C1C08AD2C31FEA400569B45 /* IntentsService.swift in Sources */,
 				7CFEBE832BC434A10013233F /* BaseCollectionViewController.swift in Sources */,
-				D1A5D0CE2BE52728003E05D5 /* AdView+Google.swift in Sources */,
 				D1352D3A2BBD747100104E7B /* PortionBarLabels.swift in Sources */,
 				D17733F52BBC2D0F006FC81A /* ConnectionPreferencesViewModel.swift in Sources */,
-				7C4CF2FC2BDE78F50078FEA1 /* AdView+Unity.swift in Sources */,
 				D1A227012AEF05A600669D6D /* TorrentListViewModel.swift in Sources */,
 				D1A227092AEF0B6A00669D6D /* TorrentListItemViewModel.swift in Sources */,
 				7CC411642BD326C300CA8B13 /* AppDelegate+Firebase.swift in Sources */,
@@ -2381,10 +2296,8 @@
 			package = 7C3142CE2C317E6400397E82 /* XCRemoteSwiftPackageReference "MarqueeText" */;
 			productName = MarqueeText;
 		};
-		7C519C872C427E9A00E353A9 /* FirebaseAnalytics */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 7C519C862C427E9A00E353A9 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAnalytics;
 		};
 		7C519C8B2C427F4C00E353A9 /* FirebaseRemoteConfigSwift */ = {
 			isa = XCSwiftPackageProductDependency;
@@ -2396,10 +2309,8 @@
 			package = 7CAD30172BC3455800592990 /* XCRemoteSwiftPackageReference "SWXMLHash" */;
 			productName = SWXMLHash;
 		};
-		7CDC7BBD2C516ADD00B51EFB /* FirebaseCrashlytics */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 7C519C862C427E9A00E353A9 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseCrashlytics;
 		};
 		7CF6DA322C0F112B0033D03F /* OpenSSL */ = {
 			isa = XCSwiftPackageProductDependency;
