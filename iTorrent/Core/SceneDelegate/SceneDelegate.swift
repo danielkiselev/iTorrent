@@ -31,7 +31,6 @@ class SceneDelegate: MvvmSceneDelegate {
         container.registerDaemon(factory: WebServerService.init)
         container.registerDaemon(factory: LiveActivityService.init)
         container.registerDaemon(factory: IntentsService.init)
-        container.registerDaemon(factory: AdsManager.init)
         container.registerDaemon(factory: CellularNotAllowedOverlay.init)
     }
 

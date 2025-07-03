@@ -6106,25 +6106,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autore di iTorrent"
+            "value" : "Hallo Lieber Nutzer,\n\nDu kannst die weitere Entwicklung von iTorrent unterstützen, indem Du mir bei Patreon eine Spende zukommen lässt.\n\nVielen Dank für Deine Unterstützung!"
           }
         },
-        "pl" : {
+            "value" : "Hey for all,\n\nYou can support future development of iTorrent by donating me on Patreon.\n\nThanks for all your support!"
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Twórca iTorrentu"
+            "value" : "Hola a todos,\n\nPuede apoyar el desarrollo futuro de iTorrent donándome en Patreon.\n\n¡Gracias por todo su apoyo!"
           }
         },
-        "ru" : {
+            "value" : "Ciao a tutti,\n\nPuoi supportare lo sviluppo futuro di iTorrent facendo una donazione su Patreon.\n\nGrazie a tutti per il vostro supporto!"
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Создатель iTorrent"
+            "value" : "Cześć wszystkim,\n\nMożecie mnie wspierać w rozwoju aplikacji iTorrent poprzez darowizny na moim Patreonie.\n\nDziękuję Was za wsparcie!\n\n(tłumaczone z j. angielskiego)"
           }
         },
-        "zh-Hans" : {
+            "value" : "Привет всем,\n\nВы можете поддержать дальнейшую разработку iTorrent задонатив мне на Patreon.\n\nСпасибо за вашу поддержку!"
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTorrent的作者"
+            "value" : "大家好，\n\n您可以通过在Patreon上向我捐赠来支持iTorrent的未来发展。\n\n感谢你的支持！"
           }
         }
       }
@@ -6371,25 +6371,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si è generato un errore sconosciuto."
+            "value" : "Thank you for your support!"
           }
         },
-        "pl" : {
+            "value" : "¡Gracias por tu apoyo!"
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wystąpił nieznany błąd"
+            "value" : "Grazie per il tuo supporto!"
           }
         },
-        "ru" : {
+            "value" : "Dziękujemy za wsparcie!"
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Произошла неизвестная ошибка."
+            "value" : "Спасибо за поддержку!"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "发生了未知错误"
+            "value" : "感谢你的支持！"
           }
         }
       }

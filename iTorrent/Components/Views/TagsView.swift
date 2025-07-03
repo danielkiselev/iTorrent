@@ -88,7 +88,7 @@ class TagsView: UIScrollView {
 
     private func setupBackgroundView() {
 #if os(iOS)
-        if #available(iOS 26, *) {
+        if #available(iOS 18, *) {
             let effect = UIGlassEffect()
 //            effect.isInteractive = true
             effect.tintColor = .tintColor

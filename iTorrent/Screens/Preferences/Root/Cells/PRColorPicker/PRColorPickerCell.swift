@@ -119,7 +119,7 @@ private class CustomColorPickerViewController: UIColorPickerViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        if #available(iOS 26.0, visionOS 26, *) {
+        if #available(iOS 18.0, visionOS 2, *) {
             maximumLinearExposure = 2
         }
 
